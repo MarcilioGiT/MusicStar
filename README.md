@@ -1,12 +1,12 @@
 README
 
 <p>
- <img src="./CALCULADORA.png" alt="Cauculadora" width="100%" />
+ <img src="./MusicStar.png" alt="MusicStar" width="100%" />
 </p>
 
 ## 🖥️ Projeto
 
-Este é um projeto web desenvolvido com o objetivo de criar uma calculadora simples e funcional.
+Este é um projeto web desenvolvido com o objetivo de criar um Site de Músicas Nostálgicas simples e funcional.
 
 ### 🔎 Tecnologias Utilizadas
 
@@ -14,6 +14,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
+- JAVASCRIPT
 - Github (para versionamento e hospedagem)
 
 ## 🎨 Layout
